@@ -4,10 +4,19 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Practice Set.iml" filepath="$PROJECT_DIR$/Practice Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/Question Number 1/Question Number 1.iml" filepath="$PROJECT_DIR$/Question Number 1/Question Number 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question Number 10/Question Number 10.iml" filepath="$PROJECT_DIR$/Question Number 10/Question Number 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question Number 11/Question Number 11.iml" filepath="$PROJECT_DIR$/Question Number 11/Question Number 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question Number 12/Question Number 12.iml" filepath="$PROJECT_DIR$/Question Number 12/Question Number 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question Number 13/Question Number 13.iml" filepath="$PROJECT_DIR$/Question Number 13/Question Number 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question Number 14/Question Number 14.iml" filepath="$PROJECT_DIR$/Question Number 14/Question Number 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question Number 15/Question Number 15.iml" filepath="$PROJECT_DIR$/Question Number 15/Question Number 15.iml" />
       <module fileurl="file://$PROJECT_DIR$/Question Number 3/Question Number 3.iml" filepath="$PROJECT_DIR$/Question Number 3/Question Number 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Question Number 4/Question Number 4.iml" filepath="$PROJECT_DIR$/Question Number 4/Question Number 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Question Number 5/Question Number 5.iml" filepath="$PROJECT_DIR$/Question Number 5/Question Number 5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Question Number 6/Question Number 6.iml" filepath="$PROJECT_DIR$/Question Number 6/Question Number 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question Number 7/Question Number 7.iml" filepath="$PROJECT_DIR$/Question Number 7/Question Number 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question Number 8/Question Number 8.iml" filepath="$PROJECT_DIR$/Question Number 8/Question Number 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question Number 9/Question Number 9.iml" filepath="$PROJECT_DIR$/Question Number 9/Question Number 9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Question number 2/Question number 2.iml" filepath="$PROJECT_DIR$/Question number 2/Question number 2.iml" />
     </modules>
   </component>
